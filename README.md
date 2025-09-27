@@ -2,11 +2,11 @@
 
 ## 🎯 Estudiante de Ingeniería en Ciencias de la Computación | Especialista en Integración Hardware y Software
 
-Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **electrónica aplicada** y **desarrollo de sistemas**. Me especializo en proyectos que integran hardware y software para crear soluciones reales.
+Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **electrónica aplicada** y **desarrollo de sistemas**. Me especializo en proyectos que integran hardware y software para crear soluciones reales (Protoipados).
 
 ### 🛠️ Stack Técnico
 
-**💻 Lenguajes de Programación:**
+**💻 Lenguajes de Programación (VibeCoding):**
 - Python
 - C
 - Java
@@ -47,11 +47,11 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 - 🔐 **Sistemas de seguridad IoT** 
 - 💾 **Recuperación de información**
 - 🌐 **Redes y conectividad**
-
+<!--
 ### 📫 ¿Interesado en colaborar?
-- Proyectos de **integración hardware/software**
-- Desarrollo de **sistemas embebidos**
-- Investigación en **electrónica aplicada**
-
+-->
+- **Proyectos de integración hardware/software**
+- **Desarrollo de sistemas embebidos**
+- **Investigación en electrónica aplicada**
 ---
 > *"La teoría sin práctica es inútil, la práctica sin teoría es peligrosa."*
