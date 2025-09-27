@@ -2,7 +2,7 @@
 
 ## 🎯 Estudiante de Ingeniería en Ciencias de la Computación | Entusiasta en Integración Hardware y Software
 
-Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **electrónica aplicada** y **desarrollo de sistemas**. Me especializo en proyectos que integran hardware y software para crear soluciones reales (Protoipados).
+Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **electrónica aplicada** y **desarrollo de sistemas**. Me especializo en proyectos que integran hardware y software para crear soluciones reales (Prototipados).
 
 ### 🛠️ Stack Técnico
 
