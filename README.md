@@ -5,19 +5,39 @@
 Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **electrónica aplicada** y **desarrollo de sistemas**. Me especializo en proyectos que integran hardware y software para crear soluciones reales.
 
 ### 🛠️ Stack Técnico
-skills = {
-    "languages": ["Python", "C", "Java"],
-    "electronics": ["Arduino", "Circuit Design", "RFID", "Bluetooth"],
-    "interests": ["IoT Systems", "Security Systems", "Embedded Programming"],
-    "learning": ["Forensic Computing", "Network Infrastructure", "Database Systems"]
-}
 
+**💻 Lenguajes de Programación:**
+- Python
+- C
+- Java
+
+**🔧 Electrónica:**
+- Arduino
+- Circuit Design
+- PCB Design
+- Sensors & Actuators
+- Microcontroller (PIC)
+- ESP32
+- Raspberry Pi
+
+**🎯 Áreas de Interés:**
+- IoT Systems
+- Security Systems
+- Embedded Programming
+
+**📚 Actualmente Aprendiendo:**
+- Forensic Computing
+- Network Infrastructure
+- Database Systems
+
+<!--
 ### 🚀 Proyecto Destacado
 **Sistema de Seguridad con Arduino** _(2022)_
 - Puerta inteligente con autenticación **Bluetooth + RFID**
 - Integración completa hardware/software
 - Programación en C para microcontrolador
 - _Documentación próximamente en este perfil_
+-->
 
 ### 📊 GitHub Stats
 ![Francis1918's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francis1918&show_icons=true&theme=dark)
@@ -35,5 +55,3 @@ skills = {
 
 ---
 > *"La teoría sin práctica es inútil, la práctica sin teoría es peligrosa."*
-
-
