@@ -1,6 +1,6 @@
 # 👋 Hola, soy Francis
 
-## 🎯 Computer Science Engineering Student | Hardware & Software Integration Specialist
+## 🎯 Estudiante de Ingeniería en Ciencias de la Computación | Especialista en Integración Hardware y Software
 
 Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **electrónica aplicada** y **desarrollo de sistemas**. Me especializo en proyectos que integran hardware y software para crear soluciones reales.
 
@@ -13,22 +13,22 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 
 **🔧 Electrónica:**
 - Arduino
-- Circuit Design
-- PCB Design
-- Sensors & Actuators
-- Microcontroller (PIC)
+- Diseño de Circuitos
+- Diseño de PCB
+- Sensores y Actuadores
+- Microcontroladores (PIC)
 - ESP32
 - Raspberry Pi
 
 **🎯 Áreas de Interés:**
-- IoT Systems
-- Security Systems
-- Embedded Programming
+- Sistemas IoT
+- Sistemas de Seguridad
+- Programación Embebida
 
 **📚 Actualmente Aprendiendo:**
-- Forensic Computing
-- Network Infrastructure
-- Database Systems
+- Computación Forense
+- Infraestructura de Redes
+- Sistemas de Bases de Datos
 
 <!--
 ### 🚀 Proyecto Destacado
@@ -39,8 +39,8 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 - _Documentación próximamente en este perfil_
 -->
 
-### 📊 GitHub Stats
-![Francis1918's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francis1918&show_icons=true&theme=dark)
+### 📊 Estadísticas de GitHub
+![Estadísticas de GitHub de Francis1918](https://github-readme-stats.vercel.app/api?username=Francis1918&show_icons=true&theme=dark)
 
 ### 🔍 Áreas de Investigación
 - 📱 **Reparación y diagnóstico electrónico**
