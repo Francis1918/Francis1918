@@ -54,4 +54,4 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 - **Desarrollo de sistemas embebidos**
 - **Investigación en electrónica aplicada**
 ---
-> *"La teoría sin práctica es inútil, la práctica sin teoría es peligrosa."*
+> *"La teoría sin práctica es inútil, la práctica sin teoría es peligrosa. George 0."*
