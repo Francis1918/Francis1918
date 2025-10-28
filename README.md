@@ -29,7 +29,6 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 **📚 Actualmente Aprendiendo:**
 - Computación Forense
 - Infraestructura de Redes
-- Sistemas de Bases de Datos
 
 <!--
 ### 🚀 Proyecto Destacado
@@ -44,7 +43,7 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 ![Estadísticas de GitHub de Francis1918](https://github-readme-stats.vercel.app/api?username=Francis1918&show_icons=true&theme=dark)
 
 ### 🔍 Áreas de Investigación
-- 📱 **Reparación y diagnóstico electrónico**
+- 📱 **Reparación y diagnóstico electrónicos**
 - 🔐 **Sistemas de seguridad IoT** 
 - 💾 **Recuperación de información**
 - 🌐 **Redes y conectividad**
