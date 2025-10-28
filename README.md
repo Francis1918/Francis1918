@@ -6,7 +6,7 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 
 ### 🛠️ Stack Técnico
 
-**💻 Lenguajes de Programación (VibeCoding):**
+**💻 Lenguajes de Programación (Vibe Coding):**
 - Python
 - C
 - C++
