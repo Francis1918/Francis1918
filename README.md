@@ -9,6 +9,7 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 **💻 Lenguajes de Programación (VibeCoding):**
 - Python
 - C
+- C++
 - Java
 
 **🔧 Electrónica:**
