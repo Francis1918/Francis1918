@@ -40,7 +40,7 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 -->
 
 ### 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/? username=Francis1918&theme=darkhub&no-frame=true&column=7)
+![Header](https://capsule-render.vercel.app/api? type=waving&color=gradient&height=200&section=header&text=Francis1918&fontSize=50&fontAlignY=35)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Francis1918&theme=dark)
 
 
