@@ -40,7 +40,7 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 -->
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub de Francis1918](https://github-readme-stats.vercel.app/api?username=Francis1918&show_icons=true&theme=dark)
+![Estadísticas de GitHub de Francis1918](https://github-readme-stats.vercel.app/api?username=Francis1918&show_icons=true&theme=dark&cache_seconds=86400)
 
 ### 🔍 Áreas de Investigación
 - 📱 **Reparación y diagnóstico electrónicos**
