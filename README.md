@@ -39,8 +39,8 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 - _Documentación próximamente en este perfil_
 -->
 
-### 🏆 Trofeos de GitHub
-![Header](https://capsule-render.vercel.app/api? type=waving&color=gradient&height=200&section=header&text=Francis1918&fontSize=50&fontAlignY=35)
+### 📈 Actividad de GitHub
+![](https://github-readme-activity-graph. vercel.app/graph?username=Francis1918&theme=github-dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Francis1918&theme=dark)
 
 
