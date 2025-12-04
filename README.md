@@ -40,7 +40,7 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **el
 -->
 
 ### 📊 Estadísticas de GitHub
-![](https://github-profile-summary-cards. vercel.app/api/cards/profile-details?username=Francis1918&theme=dark)
+![](https://github-stats-alpha.vercel.app/api? username=Francis1918&cc=22272e&tc=37BCF6&ic=fff)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Francis1918&theme=dark)
 
 
