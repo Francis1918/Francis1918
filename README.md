@@ -20,6 +20,7 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **El
 - Microcontroladores (PIC)
 - ESP32
 - Raspberry Pi
+- Electronica Digital
 
 **🎯 Áreas de Interés:**
 - Sistemas IoT
@@ -31,19 +32,8 @@ Estudiante de **Ingeniería en Ciencias de la Computación** con enfoque en **El
 - Infraestructura de Redes
 - Diseño y Creacion de circuitos Electronicos
 
-<!--
-### 🚀 Proyecto Destacado
-**Sistema de Seguridad con Arduino** _(2022)_
-- Puerta inteligente con autenticación **Bluetooth + RFID**
-- Integración completa hardware/software
-- Programación en C para microcontrolador
-- _Documentación próximamente en este perfil_
--->
-
 ### 📈 Actividad de GitHub
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Francis1918&theme=dark)
-
-
 
 ### 🔍 Áreas de Investigación
 - 📱 **Reparación y diagnóstico electrónicos**
